@@ -10,3 +10,5 @@ Task8: script that sets the permission to the file hello as follows:Owner: no pe
 Task9: script that sets the mode of the file hello to this:-rwxr-x-wx
 Task10: script that sets the mode of the file hello the same as olleh’s mode.
 Task11: cript that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+Task12: script that creates a directory called my_dir with permissions 751 in the working directory.
+Task13:  script that changes the group owner to school for the file hello
