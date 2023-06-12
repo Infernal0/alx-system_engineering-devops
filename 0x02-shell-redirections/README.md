@@ -20,3 +20,4 @@ Task19: Replace all characters A and c from input to Z and e respectively.
 Task20: a script that removes all letters c and C from input.
 Task21: a script that reverse its input.
 Task22: a script that displays all users and their home directories, sorted by users.
+Task23: a command that finds all empty files and directories in the current directory and all sub-directories.
