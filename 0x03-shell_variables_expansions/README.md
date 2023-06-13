@@ -6,3 +6,9 @@ Task4: a script that lists environment variables.
 Task5:  script that lists all local variables and environment variables, and functions.
 Task6: a script that creates a new local variable.
 task7:  a script that creates a new global variable.
+Task8: a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+Task9: a script that prints the result of POWER divided by DIVIDE, followed by a new line
+Task10: a script that displays the result of BREATH to the power LOVE
+Task11: a script that converts a number from base 2 to base 10.
+Task12: a script that prints all possible combinations of two letters, except oo.
+Task13: a script that prints a number with two decimal places, followed by a new line.
